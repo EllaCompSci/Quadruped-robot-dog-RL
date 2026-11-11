@@ -1,0 +1,1 @@
+Training a Custom, 3D printed quadruped robot dog using PPO policy and evolutionary dynamics for determining reward functions. This project is a comparative study to human-tuned reward functions and evolutionary reward functions. We also hope to bring the Sim-to-Real gap with this model and present the learned behaviour at the Open days
